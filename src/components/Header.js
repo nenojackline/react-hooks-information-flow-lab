@@ -11,4 +11,4 @@ export default function Header({mode, onDarkModeClick}){
             </header>
 
         )
-}
+};
